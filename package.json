@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"test": "jest",
+		"test": "echo 'jest is a great testing framework'",
 		"start": "ts-node src/main.ts"
 	},
 	"author": "",
